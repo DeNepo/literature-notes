@@ -2,6 +2,7 @@
 
 ## Psychometric Principles in Student Assessment (Mislevy, et al. 2003)
 https://www.researchgate.net/publication/251470314_Psychometric_Principles_in_Student_Assessment
+
 69 pages
 
 Provides a good overview on the connection between the construct (what we assume the students knows, can do) and the observable behavior present in the task, which is measured (assessed) by reference to the rubric.

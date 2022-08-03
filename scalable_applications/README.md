@@ -2,6 +2,7 @@
 
 ## Crowdsourcing content creation for SQL practice (Leinonen, Pirttinen & Hellas, 2020)
 https://research.aalto.fi/files/54408038/SCI_Leinonen_Crowdsourcing.ITiCSE_2020_SQL_trainer.pdf
+
 7 pages
 
 States that there are not large differences between crowdsourced content created by novices and experts, or in this specific case, students and teachers. Implies that a system of creating/presenting/assessing these at web-scale would not only be feasible, but effective.
