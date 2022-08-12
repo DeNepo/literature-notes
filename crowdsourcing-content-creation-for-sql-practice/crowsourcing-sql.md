@@ -1,6 +1,15 @@
-# Research on much larger scalable approaches that span multiple classrooms/ages/levels/cultures
+# Crowdsourcing content creation for SQL practice (Leinonen, Pirttinen & Hellas, 2020)
 
-## Crowdsourcing content creation for SQL practice (Leinonen, Pirttinen & Hellas, 2020)
+<!-- they describe the design they built just for themselves -->
+
+#phase-4a
+
+<!-- they gathered feedback and report on it -->
+
+#phase-4b
+
+[the paper](./the-paper.pdf)
+
 https://research.aalto.fi/files/54408038/SCI_Leinonen_Crowdsourcing.ITiCSE_2020_SQL_trainer.pdf
 
 7 pages

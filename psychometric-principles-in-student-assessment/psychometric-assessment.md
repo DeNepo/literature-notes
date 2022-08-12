@@ -1,6 +1,11 @@
-# Research that's relevant to theory development
+# Psychometric Principles in Student Assessment (Mislevy, et al. 2003)
 
-## Psychometric Principles in Student Assessment (Mislevy, et al. 2003)
+<!-- assessment theory from another field -->
+
+#phase-1a
+
+[the paper](./the-paper.pdf)
+
 https://www.researchgate.net/publication/251470314_Psychometric_Principles_in_Student_Assessment
 
 69 pages

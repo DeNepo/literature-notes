@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "79cb0da03e71c747",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a69cb86def2bef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "psychometric-principles-in-student-assessment/psychometric-assessment.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aab376007587b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "017ea3e933c3a283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394b85073078f32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2112324d8613e608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f02a08546500ac0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "295cbb7cded9d051",
+    "type": "split",
+    "children": [
+      {
+        "id": "459333bc2c5fbd6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7925d59d3b775f7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psychometric-principles-in-student-assessment/psychometric-assessment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b774e511a4a11ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "psychometric-principles-in-student-assessment/psychometric-assessment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee2c398da28e9933",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1629c8aca5fd761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "psychometric-principles-in-student-assessment/psychometric-assessment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f6a69cb86def2bef",
+  "lastOpenFiles": [
+    "psychometric-principles-in-student-assessment/the-paper.pdf",
+    "psychometric-principles-in-student-assessment/psychometric-assessment.md",
+    "README.md"
+  ]
+}
