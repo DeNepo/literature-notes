@@ -1,3 +1,5 @@
+[example link](../psychometric-principles-in-student-assessment/psychometric-assessment.md)
+
 # Exploring the use of faded worked examples as a problem solving approach for underprepared students
 
 <!-- borrowing from chemistry -->

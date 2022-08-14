@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "psychometric-principles-in-student-assessment/psychometric-assessment.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#phase-1a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6a69cb86def2bef",
+  "active": "2112324d8613e608",
   "lastOpenFiles": [
     "psychometric-principles-in-student-assessment/the-paper.pdf",
     "psychometric-principles-in-student-assessment/psychometric-assessment.md",

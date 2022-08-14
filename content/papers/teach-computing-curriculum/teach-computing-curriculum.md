@@ -1,4 +1,4 @@
-<!-- stubby stub -->
+> stubby stub
 
 #phase-5a
 
