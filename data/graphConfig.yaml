@@ -1,8 +1,0 @@
-enableLegend: true
-enableDrag: true
-enableZoom: true
-displayOrphans: true
-depth: -1 # set to -1 to show full graph
-paths:
-  - papers: "orange"
-  - micromaterials: "blue"
