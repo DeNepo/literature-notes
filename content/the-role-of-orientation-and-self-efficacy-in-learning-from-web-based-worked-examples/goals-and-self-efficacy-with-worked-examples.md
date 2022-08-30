@@ -2,7 +2,13 @@
 
 <!-- borrowing from chemistry -->
 
-#phase-1a
+#phase-1a-tz
+
+#phase-2a-tz
+
+#phase-2b-tz
+
+#phase-4a-tz
 
 [the paper](./the-paper.pdf)
 
