@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Denepo
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,9 +8,8 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title: "🪴 Quartz 3.2"
+  A visual display of research related to Computer Science Education.
+page_title: "Denepo Literature Notes"
 links:
   - link_name: Github
     link: https://github.com/colevandersWands
