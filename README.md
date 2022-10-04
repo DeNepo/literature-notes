@@ -1,17 +1,25 @@
-# Quartz
+# Literature notes
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+This will eventually be a visual graph displaying the relationships between the relevant articles, papers, and blog posts. For now, we're just trying to get it running locally.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+## Running locally
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+1. Download [hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) and build the executable locally. For linux/MacOS, that means cloning the repository, running `go build -o hugo-obsidian ./`, making the output file executable with `chmod +x hugo-obsidian`, and then placing it in your path (maybe at `/usr/bin/hugo-obsidian`. You can test it's set up by running `hugo obsidian`, and you should see output like the following:
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+```
+Scraping .
+[DONE] in 2ms
+Ignored 0 private files 
+Parsed 0 total links 
+Removed 0 external and non-markdown links
+```
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+2. Download [hugo](https://github.com/gohugoio/hugo/releases), and make sure you get one of the `hugo_extended` releases. For linux/MacOS, unzip it and move the binary to your path, like at `/usr/local/bin/hugo`. Test your installation by running `hugo version`. The output should be something like:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```
+hugo v0.104.1-8958b8741f552c8024af5194330fbf031544a826+extended linux/amd64 BuildDate=2022-09-26T17:05:45Z VendorInfo=gohugoio
+```
+
+3. Now, you're ready to serve it locally via the Makefile command `make serve`. You should have a running server locally at `http://localhost:1313`.
+
+4. Profit
